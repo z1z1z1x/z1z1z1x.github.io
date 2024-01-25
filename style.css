@@ -126,14 +126,3 @@ ul {
   width: 90%;
   font-size: 18px;
 }
-
-p {
-  color: #ba2c2c;
-  font-size: 75px;
-  text-align: center;
-  font-family: 'Georgia';
-  height: 100px;
-  padding-top: 100px;
-  background-color: rgba(255,255,255, 0.8);
-
-}
