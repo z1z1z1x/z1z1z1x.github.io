@@ -1,5 +1,5 @@
 body {
-  background-image: url('assets/background.png');
+  background-image: url('assets/background-ench.png');
 }
 
 .message{
@@ -19,7 +19,7 @@ body {
 }
 
 header {
-  background-image: url("assets/HeaderBackground.png");
+  background-image: url("assets/header.png");
   height: 350px;
   padding-top: 0px;
   background-size: cover;
